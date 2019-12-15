@@ -1,0 +1,11 @@
+.container-box {
+    border: none;
+    padding: 5px;
+    width: 75%;
+    height: 550px;
+    overflow: scroll;
+}
+
+::-webkit-scrollbar {
+
+}
